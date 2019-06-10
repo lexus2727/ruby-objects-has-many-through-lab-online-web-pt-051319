@@ -1,7 +1,7 @@
 class Apoointment
   attr_reader :date, :patient, :doctor
   
-  @2all = []
+  @@all = []
   def initialize(date, patient, doctor)
     @date = date
     @patient = patient
