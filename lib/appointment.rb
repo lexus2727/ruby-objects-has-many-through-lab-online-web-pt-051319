@@ -1,4 +1,4 @@
-class Apoointment
+class Apointment
   attr_reader :date, :patient, :doctor
   
   @@all = []
